@@ -1,0 +1,18 @@
+.navBar {
+background-color: bisque;
+    padding: 1rem;
+    margin: 0;  
+}
+
+.navElement {
+    padding-right: 0.5rem;
+}
+
+/* .navElements {
+    width: 70%;
+} */
+
+.navContainer {
+    display: flex;
+    flex-direction: row;
+}
